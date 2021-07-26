@@ -47,5 +47,4 @@ Ladies and gentlemen, while the code I have delivered for you is specifically ta
 
 1) Altering the "file_to_load" syntax in line 9 to merge multiple CSV files, even if the formatting is different (from all reporting precincts), so the program can run on the entire state's results. 
 
-2) 
-
+2) As the purpose of the election audit is to verify the results, I would also recommend including an analysis of the BallotID information, to ensure that each BallotID is only casting 1 vote, and only voting in 1 precinct.
