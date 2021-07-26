@@ -7,11 +7,11 @@
 
 The following bulleted lists provide the outcomes of the Election Audit Analysis, which may also be viewed via .txt file at: [election_analysis.txt](https://github.com/deltaLyd/PyPoll_Challenge/blob/main/election_analysis.txt)
 
-#### **Election Results**
+**Election Results**
 
 • Total Votes: 369,711
 
-**County Votes:**
+**County Votes**
 
 • Jefferson: 10.5% (38,855)
 
@@ -20,7 +20,9 @@ The following bulleted lists provide the outcomes of the Election Audit Analysis
 • Arapahoe: 6.7% (24,801)
 
 
-**Largest County Turnout:** Denver
+**Largest County Turnout** 
+
+Denver
 
 **Election Results by Candidate**
 
