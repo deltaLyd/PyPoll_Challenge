@@ -40,7 +40,7 @@ Denver
 
 • Winning Percentage: 73.8%
 
-
+## Recommendations to Colorado Board of Elections
 
 
 
