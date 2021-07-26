@@ -14,7 +14,9 @@ The following bulleted lists provide the outcomes of the Election Audit Analysis
 **County Votes:**
 
 • Jefferson: 10.5% (38,855)
+
 • Denver: 82.8% (306,055)
+
 • Arapahoe: 6.7% (24,801)
 
 
@@ -23,13 +25,17 @@ The following bulleted lists provide the outcomes of the Election Audit Analysis
 **Election Results by Candidate**
 
 • Charles Casper Stockham: 23.0% (85,213)
+
 • Diana DeGette: 73.8% (272,892)
+
 • Raymon Anthony Doane: 3.1% (11,606)
 
 **Election Winner Statistics**
 
 • Winner: Diana DeGette
+
 • Winning Vote Count: 272,892
+
 • Winning Percentage: 73.8%
 
 
