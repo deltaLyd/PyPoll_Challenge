@@ -45,5 +45,7 @@ Denver
 
 Ladies and gentlemen, while the code I have delivered for you is specifically tailored to the precint you requested an analysis of, I can (for a reasonable consulting fee), adapt the code to be applicable to all voting precints in the state of Colorado, that you may have the same confidence in the data you use to conduct you audit(s) for all precincts.  The two main changes I would make are:
 
-•
+1) Altering the "file_to_load" syntax in line 9 to merge multiple CSV files, even if the formatting is different (from all reporting precincts), so the program can run on the entire state's results. 
+
+2) 
 
