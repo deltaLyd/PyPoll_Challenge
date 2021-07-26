@@ -41,12 +41,9 @@ Denver
 • Winning Percentage: 73.8%
 
 ## Recommendations to Colorado Board of Elections
+### Adapting Code for Use in Auditing all State Elections
 
+Ladies and gentlemen, while the code I have delivered for you is specifically tailored to the precint you requested an analysis of, I can (for a reasonable consulting fee), adapt the code to be applicable to all voting precints in the state of Colorado, that you may have the same confidence in the data you use to conduct you audit(s) for all precincts.  The two main changes I would make are:
 
+•
 
-
-
-
-
-
-I would also have added in title/header lines for "Results by Candidates" and "Election Winner Statistics" to the final output. 
